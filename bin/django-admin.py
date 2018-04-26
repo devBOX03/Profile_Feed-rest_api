@@ -1,4 +1,4 @@
-#!/home/dev/Recovery/DjangoProjects/profile-feed-rest-api/bin/python3
+#!/home/dev/Recovery/DjangoProjects/Profile_Feed-rest_api/bin/python3
 from django.core import management
 
 if __name__ == "__main__":

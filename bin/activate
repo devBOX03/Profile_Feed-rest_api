@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/dev/Recovery/DjangoProjects/profile-feed-rest-api"
+VIRTUAL_ENV="/home/dev/Recovery/DjangoProjects/Profile_Feed-rest_api"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

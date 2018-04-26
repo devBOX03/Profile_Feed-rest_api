@@ -36,7 +36,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/dev/Recovery/DjangoProjects/profile-feed-rest-api"
+set -gx VIRTUAL_ENV "/home/dev/Recovery/DjangoProjects/Profile_Feed-rest_api"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

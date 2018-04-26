@@ -1,4 +1,4 @@
-#!/home/dev/Recovery/DjangoProjects/profile-feed-rest-api/bin/python
+#!/home/dev/Recovery/DjangoProjects/Profile_Feed-rest_api/bin/python
 
 import sys
 import getopt
